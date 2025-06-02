@@ -1,2 +1,2 @@
 # Demp-Repo
-This is Repository for Leatning
+This is Repository for Learning
